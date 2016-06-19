@@ -1,0 +1,14 @@
+layout_spectrum: 0.04939711489714682
+typography_spectrum: 0.7771373416762799
+color:
+  brandStrength: 0.669784503756091
+  lightness: 0.1540399813093245
+  saturation: 0.47995651443488896
+  rhythmicContrast: 0.5400019651278853
+  brandColors:
+    - '#F6F792'
+    - '#333745'
+    - '#77C4D3'
+    - '#DAEDE2'
+    - '#EA2E49'
+name: Creator Lab
